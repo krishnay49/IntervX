@@ -2,13 +2,6 @@
 
 **IntervX** is a full-stack AI-driven mock interview application built to help developers and job seekers practice interviews, receive real-time feedback, and improve their skills.
 
-## 👥 Team
-Built by a group of 4 developers:
-- **Krishna**
-- **Harsh**
-- **Atif**
-- **Nikhil**
-
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
